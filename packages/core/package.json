@@ -1,0 +1,17 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "private": true,
+    "main": "src/index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "babel-eslint": "~10.0.1",
+        "eslint": "~5.11.1",
+        "eslint-config-prettier": "~3.3.0",
+        "eslint-plugin-import": "~2.14.0",
+        "eslint-plugin-jest": "~22.1.2",
+        "eslint-plugin-prettier": "~3.0.1",
+        "jest": "~23.6.0",
+        "prettier": "~1.15.3"
+    }
+}
